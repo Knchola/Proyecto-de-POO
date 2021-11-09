@@ -11,7 +11,7 @@ public class listados{
 	* @param args Arreglo de cadenas
 	* 
 	* */
-
+//PRUEBA TIEMPO REAL
 	public static void main(String[] args){
 		Scanner teclado=new Scanner(System.in);
 		Integer [] list=new Integer[10];
